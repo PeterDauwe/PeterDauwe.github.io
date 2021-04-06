@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>ArcoBobo Distribution</title>
-    <link>https://peterdauwe.github.io/index.html/</link>
+    <link>https://peterdauwe.github.io/</link>
     <description>Recent content on ArcoBobo Distribution</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://peterdauwe.github.io/index.html/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://peterdauwe.github.io/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
